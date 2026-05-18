@@ -7,7 +7,7 @@
 Syslog信息源: Cisco Mobility Express
 
 功能效果: 
-将Cisco Mobility Express的Syslog信息，发送至ESP32，筛选Syslog中，无线客户端接入上线，或断开离线的Syslog条目，
+将Cisco Mobility Express的Syslog信息，发送至ESP32，筛选Syslog中，dot1x无线客户端接入上线，或断开离线的Syslog条目，
 通过ESP32 Web Dashboard展示，同时，通过Bark推送相关信息到手机端。
 
 
